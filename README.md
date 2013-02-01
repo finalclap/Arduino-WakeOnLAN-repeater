@@ -13,3 +13,5 @@ In addition, this project is shipped with another useful feature to log the Ardu
 Send magic packet
 -----------------
 You can use this website to send magic packet without installing any software : http://www.depicus.com/wake-on-lan/woli.aspx.
+
+Full tutorial available here : http://www.finalclap.com/tuto/arduino-wake-on-lan-repeater-80/ (it's in French)
